@@ -1,2 +1,2 @@
-# DC37LaGuardiaDataAnalytics
+# DataAnalytics
 Collaborative projects
